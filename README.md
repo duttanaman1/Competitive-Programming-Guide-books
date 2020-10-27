@@ -14,7 +14,7 @@ Competitive programming books and papers for pratice
    <li> Quant Formula Book (PlacementSeason)</li>  
   <li>Aplitude IndiaBix</li> 
   
-    <li>ELEMENTS OF PROGRAMMING INTERVIEWS Java (ADNAN AZIZ, TSUNG-HSIEN LEE, AMIT PRAKASH)</li>
+  <li>ELEMENTS OF PROGRAMMING INTERVIEWS Java (ADNAN AZIZ, TSUNG-HSIEN LEE, AMIT PRAKASH)</li>
    <li>Data Science Interview Questions</li>
     
   
