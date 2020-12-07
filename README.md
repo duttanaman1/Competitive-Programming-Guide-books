@@ -22,4 +22,4 @@ Competitive programming books and papers for pratice
  
  <h3> These books helped me a lot during my placement seasons.</h3>
  
- <h5>Tip: Pratice questions from sudo-Placement course from GeeksForGeeks</h5> 
+ <h5>Tip: Pratice questions from <a href="https://practice.geeksforgeeks.org/courses/SudoPlacement/">sudo-Placement</a> course from GeeksForGeeks</h5> 
