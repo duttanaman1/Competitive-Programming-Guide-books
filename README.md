@@ -1,21 +1,21 @@
 # Competitive-Programming-Guide-books
 Competitive programming books and papers for pratice
 <ul>
-  <li>Competitive Programmer’s Handbook (Antti Laaksonen)</li>
-   <li>Competitive Programming (Steven & Felix,)</li>
-  <li>The Hitchhiker’s Guide to the Programming Contests</li>
+  <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/Competitive%20Programmer%E2%80%99s%20Handbook.pdf">Competitive Programmer’s Handbook (Antti Laaksonen)</a></li>
+   <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/Competitive%20Programming.pdf">Competitive Programming (Steven & Felix,)</a></li>
+  <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/The%20Hitchhiker%E2%80%99s%20Guide%20to%20Programming%20Contests.pdf">The Hitchhiker’s Guide to the Programming Contests</a></li>
   
-  <li>DATA STRUCTURES USING C++ (D.S. MALIK)</li>
-  <li>Data Structures & Algorithms in Java (Robert Lafore)</li>
-  <li>Data Structures And Algorithms Made Easy In JAVA (Narasimha Karumanchi)</li>
+  <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/DATA%20STRUCTURES%20USING%20C%2B%2B.pdf">DATA STRUCTURES USING C++ (D.S. MALIK)</a></li>
+  <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/data_structures_and_algorithms_in_java%20Robert%20Lafore.pdf">Data Structures & Algorithms in Java (Robert Lafore)</a></li>
+  <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/Data%20Structures%20and%20Algorithms%20Made%20Easy%20in%20Java%20-%20Narasimha%20Karumanchi-min.pdf">Data Structures And Algorithms Made Easy In JAVA (Narasimha Karumanchi)</a></li>
   
-  <li>Reasoning Book for placements (PlacementSeason)</li>  
-  <li>Synonyms & Antonyms (PlacementSeason)</li>
-   <li> Quant Formula Book (PlacementSeason)</li>  
-  <li>Aplitude IndiaBix</li> 
-  
-  <li>ELEMENTS OF PROGRAMMING INTERVIEWS Java (ADNAN AZIZ, TSUNG-HSIEN LEE, AMIT PRAKASH)</li>
-   <li>Data Science Interview Questions</li>
+  <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/Reasoning_Book_2018.pdf">Reasoning Book for placements (PlacementSeason)</a></li>  
+  <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/Synonyms_Antonyms_2018.pdf">Synonyms & Antonyms (PlacementSeason)</a></li>
+   <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/Quant%20Formula%20Book.pdf"> Quant Formula Book (PlacementSeason)</a></li>  
+  <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/aptitude-Indiabix.pdf">Aplitude IndiaBix</li> 
+  <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/GFG%20Cheatcode%20Book.pdf">Geeks For Geeks Cheat code</a></li>
+  <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/Elements%20of%20Programming%20Interviews%20in%20Java_The%20Insiders'%20Guide.pdf">ELEMENTS OF PROGRAMMING INTERVIEWS Java (ADNAN AZIZ, TSUNG-HSIEN LEE, AMIT PRAKASH)</li>
+   <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/datascience_Interview_questions.pdf">Data Science Interview Questions</li>
     
   
  </ul>
