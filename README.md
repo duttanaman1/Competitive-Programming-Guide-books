@@ -16,7 +16,7 @@ Competitive programming books and papers for pratice
   <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/GFG%20Cheatcode%20Book.pdf">Geeks For Geeks Cheat code</a></li>
   <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/Elements%20of%20Programming%20Interviews%20in%20Java_The%20Insiders'%20Guide.pdf">ELEMENTS OF PROGRAMMING INTERVIEWS Java (ADNAN AZIZ, TSUNG-HSIEN LEE, AMIT PRAKASH)</li>
    <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/datascience_Interview_questions.pdf">Data Science Interview Questions</li>
-     <li><a href=" https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/hackerrank.pdf">Hacker Rank Problems and Solutions C++</li>
+     <li><a href="https://github.com/duttanaman1/Competitive-Programming-Guide-books/blob/main/hackerrank.pdf">Hacker Rank Problems and Solutions C++</li>
  
  </ul>
  
