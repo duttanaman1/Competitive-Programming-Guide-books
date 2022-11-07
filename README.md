@@ -24,4 +24,5 @@ Competitive programming books and papers for pratice
  <h5>Pratice questions from <a href="https://practice.geeksforgeeks.org/courses/SudoPlacement/">sudo-Placement</a> course from GeeksForGeeks</h5>
  <h5>Follow up the notes from <a href="https://www.tutorialspoint.com/data_structures_algorithms/index.htm">Tutorialspoint DSA</a></h5>
  <h5><a href="https://visualgo.net/en"> Visualize Algorithms</a></h5>
+ <h5><a href="https://www.scaler.com/topics/data-structures/"> Data Structures and Algorithms Tutorial - Scaler Topics</a></h5>
  <h5>Data Structures-Mycodeschool <a href="https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P">Youtube Playlist</a></h5>
